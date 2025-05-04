@@ -1,7 +1,7 @@
-# Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI 
-
 
 # AI-Career-Coach 🧠💼
+
+# Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI 
 
 **AI-Career-Coach** is a full-stack, AI-powered career guidance web application that helps users enhance their job readiness. It provides personalized industry insights, AI-generated resume and cover letter builders, and mock interview preparation — all updated automatically every 10 days using serverless cron jobs.
 
@@ -43,12 +43,13 @@
 ## Install Dependecies
  ```npm install
 
-## Run Server
+## **Run Server**
+
 ```npm run dev
           
+ 
 
-
-### Make sure to create a `.env` file with following variables -
+### **Make sure to create a `.env` file with following variables **-
 ```
 DATABASE_URL=
 
