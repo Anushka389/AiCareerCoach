@@ -6,7 +6,7 @@
 **AI-Career-Coach** is a full-stack, AI-powered career guidance web application that helps users enhance their job readiness. It provides personalized industry insights, AI-generated resume and cover letter builders, and mock interview preparation — all updated automatically every 10 days using serverless cron jobs.
 
 ## 🌐 Live Demo
-
+       
 👉 [View Demo on Edmo](https://edmo.ai/view/ai-career-coach-orpin-alpha.vercel.app)
 
 > Replace the link above with your actual Edmo demo URL.
@@ -45,13 +45,11 @@
 ```bash
 npm install
 
-### Run Server
 
+## Run devlopment Server
 ```bash
 npm run dev
 
-          
- 
 
 ### **Make sure to create a `.env` file with following variables **-
 ```
@@ -67,3 +65,11 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
 
 GEMINI_API_KEY=
 ```
+
+
+
+
+
+          
+ 
+
