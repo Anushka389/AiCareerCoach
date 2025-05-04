@@ -40,12 +40,16 @@
    cd ai-career-coach
 
 
-## Install Dependecies
- ```npm install
+## Install Dependencies
 
-## **Run Server**
+```bash
+npm install
 
-```npm run dev
+### Run Server
+
+```bash
+npm run dev
+
           
  
 
