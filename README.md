@@ -52,7 +52,6 @@ npm install
 npm run dev
 
 
-### **Make sure to create a `.env` file with following variables **-
 ```
 
 ## Environment Variables
