@@ -41,7 +41,7 @@
    cd ai-career-coach
 
 
-## Install Dependencies
+## Run Command
 
 ```bash
 ## install dependencies
