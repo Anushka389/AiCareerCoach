@@ -54,6 +54,9 @@ npm run dev
 
 ### **Make sure to create a `.env` file with following variables **-
 ```
+
+## Environment Variables
+```bash
 DATABASE_URL=
 
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
@@ -65,6 +68,7 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
 NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
 
 GEMINI_API_KEY=
+### **Make sure to create a `.env` file with following variables **-
 ```
 
 
